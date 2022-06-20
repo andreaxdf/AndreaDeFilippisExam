@@ -1,2 +1,0 @@
-GitHub: https://github.com/andreaxdf/AndreaDeFilippisExam
-SonarCloud: https://sonarcloud.io/summary/overall?id=andreaxdf_ExamISPWProject
